@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #F0F8FF;
+}
+
+body {
+    background-image: url(/src/img/backgroundLp.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    height:100vh;
+}
+
+.container-main {
+    width: 450px;
+    height: auto;
+    background-color: #131212f1;
+}
+
+.top-logo {
+    width: 180px;
+     
+}
+.paragraph {
+    font-size: 1.25rem;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+
+.text-align {
+    text-align: center;
+}
+
+.text-align p {
+    font-size: 1.15rem;
+    
+}
+.text-align button {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.footer {
+    padding-top: 30px;
+    margin-bottom: -30px;
+}
